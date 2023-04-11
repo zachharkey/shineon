@@ -70,13 +70,16 @@ Shine On - Resources
 		Crisis Management
 
 
+
+
+
 - Families or Caregivers
 
-		Key Insights About Disability
-		Family Support
-		Respite, Outreach & Community
-		Trauma-Informed Care
-		Devotional
+Key Insights About Disability
+Family Support
+Respite, Outreach & Community
+Trauma-Informed Care
+Devotional
  
 - Organizations
 
