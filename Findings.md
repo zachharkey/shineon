@@ -30,3 +30,22 @@ The Sitemaps and outlines are out of date.
 
 
 8. Keep navigation depth shallow
+
+
+
+
+- Allow previous and next at the individual page level.
+
+- Sidebar navigation
+
+* Allow visitors to sort by 
+
+visitor type
+
+relevant category
+
+popularity
+
+date created
+
+resource type
